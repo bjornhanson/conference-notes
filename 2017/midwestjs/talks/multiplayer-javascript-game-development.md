@@ -1,7 +1,8 @@
 # Multiplayer JavaScript Game Development
 
 - Speaker: [Jeremy Lund](https://github.com/lund0n), principal engineer at Workfront
-- Example repo: http://github.com/lund0n/barnyard
+- [Barnyard Basic](http://github.com/lund0n/barnyard) repo for game that was used in presentation
+- [Slides](https://docs.google.com/presentation/d/1Ib80GSRHJDP5fhUyfSO7bTaHvbba2hYvB9Hyie2B5rM/edit)
 
 ## Highlights
 - Games are fun
@@ -55,7 +56,8 @@ keyCode.subscribe(x => console.log(x), e => console.error(e));
 ```
 
 ## Resources
-- Slides will be on his [Twitter account](https://twitter.com/Jeremy_Lund) at some point
+- [Barnyard Basic](http://github.com/lund0n/barnyard) repo for game that was used in presentation
+- [Slides](https://docs.google.com/presentation/d/1Ib80GSRHJDP5fhUyfSO7bTaHvbba2hYvB9Hyie2B5rM/edit)
 - learnrxjs.io
 - devdocs.io
 - Gamkedo YouTube channel
