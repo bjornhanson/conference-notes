@@ -18,7 +18,7 @@ Thursday, August 17, 2017
 - [A math-free introduction to Neural Networks] ([Randall Koutnik], Netflix)
 
 Friday, August 18, 2017
-- [Disney's Room Detective - A Real World JavaScript IoT Solution] ([Garth Henson], Disney)
+- [Disney's Room Detective - A Real World JavaScript IoT Solution] ([Garth Henson], Disney, [Guahanweb])
 - [Multiplayer JavaScript Game Development] ([Jeremy Lund], [Workfront])
 - [The Internet of JavaScripty Things: Control Bluetooth Devices with your Browser] ([Matt Steele], Union Pacific Railroad)
 - [Leverage the power of native with Progressive Web Apps] ([Abraham Williams], [Pearl Latteier], [Bendyworks])
@@ -59,3 +59,4 @@ Friday, August 18, 2017
 [CodeWinds]: http://codewinds.com
 [Bendyworks]: https://bendyworks.com
 [Workfront]: https://www.workfront.com
+[Guahanweb]: http://www.guahanweb.com
