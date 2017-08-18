@@ -48,8 +48,10 @@ const gameRate = (frameRate = 60, scheduler = Scheduler.animationFrame) =>
   Observable.interval(1000 / frameRate, scheduler).map(() => scheduler.now())
 ```
 
+Example - getting keycode with RxJS
 ```javascript
-const keyCode = Observable.fromEvent(document, 'keydown').pluck('keyCode);
+const keyCode = Rx.Observable.fromEvent(document, 'keydown').pluck('keyCode');
+keyCode.subscribe(x => console.log(x), e => console.error(e));
 ```
 
 ## Resources
