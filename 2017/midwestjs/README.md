@@ -10,7 +10,7 @@ Wednesday, August 16, 2017
 ## Talks
 
 Thursday, August 17, 2017
-- Keynote was [Experiences, Lessons, & Opinions from 38 Years of Software Development], by [Mark Volkmann], [OCI]
+- Opening keynote was [Experiences, Lessons, & Opinions from 38 Years of Software Development], by [Mark Volkmann], [OCI]
 - [Getting Started with GraphQL, Apollo, and React] ([Ryan Glover], [Clever Beagle], [The Meteor Chef])
 - [Marble Driven Development with RxJS] ([Eric Ponto], Principal Financial Group)
 - [Taming space and time with RxJS Observables] ([Jeff Barczewski], [CodeWinds])
@@ -23,6 +23,7 @@ Friday, August 18, 2017
 - [The Internet of JavaScripty Things: Control Bluetooth Devices with your Browser] ([Matt Steele], Union Pacific Railroad)
 - [Leverage the power of native with Progressive Web Apps] ([Abraham Williams], [Pearl Latteier], [Bendyworks])
 - [How to "build your damn app already!" with Meteor] ([Joshua Longanecker])
+- Closing keynote by [Randall Koutnik], Netflix (he talked about three stages of a career: solution implementer, problem solver, problem finder)
 
 [Experiences, Lessons, & Opinions from 38 Years of Software Development]: https://github.com/mvolkmann/talks/blob/master/lessons-keynote.key.pdf
 [Intro to React and Redux]: https://github.com/objectpartners/react-redux-workshop
