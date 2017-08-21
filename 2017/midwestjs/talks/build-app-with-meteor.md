@@ -1,6 +1,7 @@
 # How to "build your damn app already!" with Meteor
 - Speaker: [Joshua Longanecker](https://github.com/notarypublic)
 - [Todo app demo project repo](https://github.com/notarypublic/meteor-todo-final) that was built during the talk
+- [Slides](https://docs.google.com/presentation/d/1GYGtSLL5f8DN9nQ3xaczv5EaGZOk-CMKgv8PeD9ldiY/edit)
 
 ## Why build an app as a business
 - No inventory cost
@@ -55,12 +56,8 @@ A non-trivial app:
 ## Resources
 - [Atmosphere](https://atmospherejs.com) repository for Meteor modules (can also use NPM now, but it's more work)
 - [Todo app demo project repo](https://github.com/notarypublic/meteor-todo-final) -- He needs to update this with .meteor stuff
-- [Discover Meteor book](https://www.discovermeteor.com)
-
-## TODO
-- Slides will be posted... check his [Twitter](https://twitter.com/JoshLovesDesign) account
-- Finish updating resources after reviewing slides
-- His [repo](https://github.com/notarypublic/meteor-todo-final) needs to be updated with `.meteor` stuff
+- [Discover Meteor book](https://www.discovermeteor.com) (in-depth)
+- [Meteortips.com](http://meteortips.com) (in-depth tutorials)
 
 ## Other Links I Found
 - [Meteor TODO app tutorial with React](https://www.meteor.com/tutorials/react/creating-an-app)
