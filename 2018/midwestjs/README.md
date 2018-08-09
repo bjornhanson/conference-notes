@@ -25,12 +25,12 @@ Friday, August 10, 2018
 - [Using JavaScript to write Native Applications/SDKs for iOS, Android, and the Web] - Siddharth Reddy Malk, Derek Anderson (PayPal)
 
 [Full Stack JavaScript Workshop]: https://github.com/mvolkmann/talks/tree/master/full-stack-js
-[Blenders, Boeing, and Bad Software]:
+[Blenders, Boeing, and Bad Software]: talks/opening-keynote.md
 [const name: Language = 'TypeScript';]: talks/typescript.md
-[An Introduction to Webtask]:
-[Webassembly and Rust]:
-[Harness the Power of ASTs using jscodeshift]:
-[A Practical Approach to the Component Library Challenge]:
+[An Introduction to Webtask]: talks/webtask.md
+[Webassembly and Rust]: talks/webassembly-rust.md
+[Harness the Power of ASTs using jscodeshift]: talks/abstract-syntax-trees-using-jscodeshift.md
+[A Practical Approach to the Component Library Challenge]: talks/practical-component-library.md
 [How Does JavaScript Math?]:
 [Taming Redux with Sagas]:
 [Hello Real World Of Legacy Code: Story of Yelp's Migration to React]:
