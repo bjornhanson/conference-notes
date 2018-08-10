@@ -31,11 +31,11 @@ Friday, August 10, 2018
 [Webassembly and Rust]: talks/webassembly-rust.md
 [Harness the Power of ASTs using jscodeshift]: talks/abstract-syntax-trees-using-jscodeshift.md
 [A Practical Approach to the Component Library Challenge]: talks/practical-component-library.md
-[How Does JavaScript Math?]:
-[Taming Redux with Sagas]:
-[Hello Real World Of Legacy Code: Story of Yelp's Migration to React]:
-[Practical Application of Ngrx in Medical Research]:
-[Using JavaScript to write Native Applications/SDKs for iOS, Android, and the Web]:
+[How Does JavaScript Math?]: talks/javascript-math.md
+[Taming Redux with Sagas]: talks/redux-sagas.md
+[Hello Real World Of Legacy Code: Story of Yelp's Migration to React]: talks/yelp-migration-to-react.md
+[Practical Application of Ngrx in Medical Research]: talks/ngrx-in-medical-research.md
+[Using JavaScript to write Native Applications/SDKs for iOS, Android, and the Web]: talks/native-apps-withjs.md
 
 [Mark Volkmann]: https://github.com/mvolkmann
 [Randall Koutnik]: https://github.com/SomeKittens
