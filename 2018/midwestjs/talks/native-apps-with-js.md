@@ -1,5 +1,6 @@
 # Using JavaScript to write Native Applications/SDKs for iOS, Android, and the Web
 - Speakers: Siddharth Reddy Malk (@msiddharthreddy), Derek Anderson (@dmikeyanderson) (PayPal)
+- [Slides](https://www.slideshare.net/DerekAnderson20/using-javascript-to-write-native-mobile-applications)
 
 ## Notes
 
